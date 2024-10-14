@@ -8,3 +8,4 @@
     Day 4: Chapter 1 Basic Questions (Find length of string, multiply strings as integer, number of capital letter, convert list to string)
     Day 5: Chapter 1 Basic Questions (List comprehension, increase value in dict, add any number of parameter, give discount, middle letter)
     Day 6: Chapter 1 Basic Questions (Uppercase letters in string, sorted words in string, before and after)
+    Day 7: Chapter 2 Intermediate Questions (FInd duplicates, find missing number, find second largest number, letters of words in list)

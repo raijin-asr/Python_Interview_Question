@@ -10,3 +10,4 @@
     Day 6: Chapter 1 Basic Questions (Uppercase letters in string, sorted words in string, before and after)
     Day 7: Chapter 2 Intermediate Questions (Find duplicates, find missing number, find second largest number, letters of words in list)
     Day 8: Chapter 2 Intermediate Questions (Reverse String, length of last word in string, check two strings are anagrams, remove duplicate characters)
+    Day 9: Chapter 2 Intermediate Questions (Alphabets, Digits, symbols in string, break list into chunks, sum of odd factors, same subsequent characters, Move zeros to end, convert snake _case to pascalCase)

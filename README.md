@@ -12,3 +12,4 @@
     Day 8: Chapter 2 Intermediate Questions (Reverse String, length of last word in string, check two strings are anagrams, remove duplicate characters)
     Day 9: Chapter 2 Intermediate Questions (Alphabets, Digits, symbols in string, break list into chunks, sum of odd factors, same subsequent characters, Move zeros to end, convert snake _case to pascalCase)
     Day10: Chapter 3 Advanced Questions (Thousand sepearator, sort alphabet and sum integer, permuation of string, bulls and cows problem, minimum characters)
+    Day11: Chapter 3 Advanced Questions (Smallest missing integer, kth largest element, first and last index, sum of two element, increase number, secret message)

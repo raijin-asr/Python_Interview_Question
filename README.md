@@ -14,3 +14,4 @@
     Day10: Chapter 3 Advanced Questions (Thousand sepearator, sort alphabet and sum integer, permuation of string, bulls and cows problem, minimum characters)
     Day11: Chapter 3 Advanced Questions (Smallest missing integer, kth largest element, first and last index, sum of two element, increase number, secret message)
     Day12: Chapter 4 Theory Questions (Python weakly typed language, Application, Lambda function, list comprehension, list, tuples, sets, args and kwargs, python interpreted language)
+    Day13: Chapter 4 Theory Questions (Python inheritance, init, read file content, pip, slicing, == operator and is keyword, self, code blocks, iterators, generators, closure, docstring)

@@ -16,3 +16,4 @@
     Day12: Chapter 4 Theory Questions (Python weakly typed language, Application, Lambda function, list comprehension, list, tuples, sets, args and kwargs, python interpreted language)
     Day13: Chapter 4 Theory Questions (Python inheritance, init, read file content, pip, slicing, == operator and is keyword, self, code blocks, iterators, generators, closure, docstring)
     Day14: Chapter 4 Theory Questions (Type casting, and, or, not operator, main() , super() funciton, append() vs extend(), any() and all(), multiline comments, negative indexing, multiple inheritance)
+    Day15: Chapter 5 Practice Questions (Special character, fizzbuzz, unique character, splitting bill, palindrome string, harshard number)

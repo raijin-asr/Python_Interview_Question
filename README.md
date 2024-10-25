@@ -17,3 +17,4 @@
     Day13: Chapter 4 Theory Questions (Python inheritance, init, read file content, pip, slicing, == operator and is keyword, self, code blocks, iterators, generators, closure, docstring)
     Day14: Chapter 4 Theory Questions (Type casting, and, or, not operator, main() , super() funciton, append() vs extend(), any() and all(), multiline comments, negative indexing, multiple inheritance)
     Day15: Chapter 5 Practice Questions (Special character, fizzbuzz, unique character, splitting bill, palindrome string, harshard number)
+    Day16: Chapter 5 Practice Questions (Armstrong number, count number of same words, fuel car, sum of odd and even, abundant number, number of duplicate characters, same sum of digits in two number)

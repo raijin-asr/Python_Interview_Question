@@ -18,3 +18,4 @@
     Day14: Chapter 4 Theory Questions (Type casting, and, or, not operator, main() , super() funciton, append() vs extend(), any() and all(), multiline comments, negative indexing, multiple inheritance)
     Day15: Chapter 5 Practice Questions (Special character, fizzbuzz, unique character, splitting bill, palindrome string, harshard number)
     Day16: Chapter 5 Practice Questions (Armstrong number, count number of same words, fuel car, sum of odd and even, abundant number, number of duplicate characters, same sum of digits in two number)
+    Day17: Chapter 5 Practice Questions (Extend vowels, number in string, camelcase to snakecase, lapindrome number, calcualte BMI, reverse odd length word, square number in list)

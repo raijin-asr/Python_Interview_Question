@@ -1,5 +1,5 @@
 # Python_Interview_Question
-"Python Interview Questions" Course in Programiz PRO 
+"Python Interview Questions" Course of Programiz PRO 
 
 # All Questions Solved Daywise
     Day 1: Chapter 1 Basic Questions (Find majority element in list, sum of largest and smallest)
@@ -19,4 +19,7 @@
     Day15: Chapter 5 Practice Questions (Special character, fizzbuzz, unique character, splitting bill, palindrome string, harshard number)
     Day16: Chapter 5 Practice Questions (Armstrong number, count number of same words, fuel car, sum of odd and even, abundant number, number of duplicate characters, same sum of digits in two number)
     Day17: Chapter 5 Practice Questions (Extend vowels, number in string, camelcase to snakecase, lapindrome number, calcualte BMI, reverse odd length word, square number in list)
-    Day18: Chapter 5 Practice Questions (Words that start with specified letter, Most common last vowel, correct John english, Is is sequence)
+    Day18: Chapter 5 Practice Questions (Words that start with specified letter, Most common last vowel, correct John english, Is is sequence
+
+
+![python interview ss0](https://github.com/user-attachments/assets/c8c27d0d-f99b-4b61-834d-cb8d759f5f5c)

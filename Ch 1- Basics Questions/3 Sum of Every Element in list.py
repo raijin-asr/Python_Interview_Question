@@ -1,5 +1,3 @@
-# replace ___ with your code
-
 # function to find the sum of all list elements
 def find_sum(nums_list):
     

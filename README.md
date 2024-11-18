@@ -20,5 +20,6 @@
     Day16: Chapter 5 Practice Questions (Armstrong number, count number of same words, fuel car, sum of odd and even, abundant number, number of duplicate characters, same sum of digits in two number)
     Day17: Chapter 5 Practice Questions (Extend vowels, number in string, camelcase to snakecase, lapindrome number, calcualte BMI, reverse odd length word, square number in list)
     Day18: Chapter 5 Practice Questions (Words that start with specified letter, Most common last vowel, correct John english, Is is sequence)
+    Day19: Minor improvements, changes and updates
 
 ![Ceritificate](image.png)
